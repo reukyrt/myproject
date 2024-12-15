@@ -1,3 +1,5 @@
 <?php
-echo 'tututu'
+echo 'tututu';
+echo 'aaa';
+echo 'mmm';
 ?>
